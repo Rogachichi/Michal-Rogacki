@@ -28,8 +28,8 @@
 ## 📈 GitHub Stats
 <!-- Replace "YOUR_NICK" below with your actual GitHub username -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_NICK&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NICK&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogachichi&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogachichi&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 📫 Let's Connect
