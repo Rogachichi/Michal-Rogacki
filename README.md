@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
-* **[Data Analysis Project 1](link to repo)** - [A short sentence explaining the dataset analyzed and the insights gained]. Stack: *[e.g., Python, Pandas, SQL]*.
+* **"C# .NET WinForms & SQL Server Warehouse Management System featuring RBAC, advanced data validation, and GDPR data anonymization."(https://github.com/Rogachichi/Warehouse-Management-System.git)** - [A short sentence explaining the dataset analyzed and the insights gained]. Stack: *[e.g., Python, Pandas, SQL]*.
 * **[Game Dev / Other Project 2](link to repo)** - [A short sentence explaining the project]. Stack: *[e.g., C#, Unity/Godot]*.
 
 ## 📈 GitHub Stats
