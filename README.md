@@ -23,7 +23,7 @@
 
 ## 🚀 Featured Projects
 * **"C# .NET WinForms & SQL Server Warehouse Management System featuring RBAC, advanced data validation, and GDPR data anonymization."(https://github.com/Rogachichi/Warehouse-Management-System.git)** 
-* **[Game Dev / Other Project 2](link to repo)** - [A short sentence explaining the project]. Stack: *[e.g., C#, Unity/Godot]*.
+* **"Dog Racing Sim. (Easy VBA Game)."(https://github.com/Rogachichi/DogRacing-VBA.git)** - Easy and fun to use VBA game where you can check your luck or great guessing ability!*.
 
 ## 📈 GitHub Stats
 <!-- Replace "YOUR_NICK" below with your actual GitHub username -->
